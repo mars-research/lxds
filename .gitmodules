@@ -1,0 +1,8 @@
+[submodule "lxd-linux"]
+	path = lxd-linux
+	url = https://gitlab.flux.utah.edu/xcap/xcap-capability-linux
+	branch = lcd_v4.8
+[submodule "idl"]
+	path = idl
+	url = https://gitlab.flux.utah.edu/xcap/lcds-idl
+	branch = dev_main
